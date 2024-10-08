@@ -1,8 +1,8 @@
 {
 "c8eccacf0953e1931cd31e434d8319101cc36e6c38b0e2104d8687552fae3e40":["sequentia.io","testcoin","Testcoin",8],
-"f0a5e199e1fc59a0b422908e6e52dd3a3c0fdb66dccb02344dc6d00c8d583891":["sequentia.io","AAPL","Apple stock asset",8],
-"be84cb524f4bfafffc826aa248184b4b04438100f5123c673fc57a310675d10b":["sequentia.io","TSLA","Tesla stock asset",8],
-"5b8e0abceb24b3a6773a0e01467cd45d99c34ba540b58a9e43823a20d91ec74a":["sequentia.io","MSTR","MicroStrategy stock asset",8],
-"087041e37fbdcb53289737750636a8e7533f506814f2956e8c413f638367257e":["tether.to","USDt","Tether USDt asset",2],
-"24ebbb95d788d8c25a24a198669c415bf1f50cad616a58a7d2743aa11527b2be":["sequentia.io","UNKW","Unkown asset",8]
+"6fc4af32cd0919ddcbe1507323a5a0a52eef5111c4c0b16531d93bacd0b6fe94":["apple.com","AAPL","Apple stock asset",8],
+"0cd70bf7af9d50a3b1f6cde6bfbf6cae67f4b013b5e252b7f6cc8ab6ba47d4d6":["tesla.com","TSLA","Tesla stock asset",8],
+"4be09409aefca2c7c71e1794bbdca392c4a7cdfafc3f2d45943f819b3bf17372":["microstrategy.com","MSTR","MicroStrategy stock asset",8],
+"9482d5fa5e19e1dae5046274148fadec42d0785bfc97c3c39d4c12c1dc3cb02b":["tether.to","USDt","Tether USDt asset",2],
+"98c430092d65689a0f16121d03a0ffc20a9515175ad55112273175dc4fa4bb70":["sequentia.io","UNKW","Unkown asset",8]
 }
